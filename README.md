@@ -19,4 +19,4 @@
     * DB_PASSWORD= [yourPassword]
 
 ## Note
-change [] with appropriate input
+change [ ] with appropriate input
