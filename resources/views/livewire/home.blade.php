@@ -1,4 +1,4 @@
-<div class="container">
+<div class="app">
 
     {{-- BANNER --}}
     <div class="banner">
